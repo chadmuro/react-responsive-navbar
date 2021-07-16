@@ -1,3 +1,3 @@
 # Create a Responsive Navbar with React
 
-Article coming soon...
+https://javascript.plainenglish.io/how-to-create-a-responsive-navbar-with-react-bb9ce4cebddd
